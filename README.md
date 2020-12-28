@@ -1,3 +1,2 @@
-# quarantinewhilecoding.github.io
-# Personal Portfolio 
-# Currently under construction.
+# quarantinewhilecoding.github.io Personal Portfolio 
+Currently under construction.
