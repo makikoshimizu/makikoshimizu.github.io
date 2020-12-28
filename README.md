@@ -1,2 +1,2 @@
-# quarantinewhilecoding.github.io Personal Portfolio 
-Currently under construction.
+# Personal Portfolio 
+Currently under construction. - Dec 2020 
