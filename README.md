@@ -1,2 +1,2 @@
 # Personal Portfolio 
-Currently under construction. - Dec 2020 
+Still procrastinating. - Sep 2021
